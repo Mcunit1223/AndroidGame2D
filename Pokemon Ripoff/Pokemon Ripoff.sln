@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokemon Ripoff.CSharp.Plugins", "Pokemon Ripoff.CSharp.Plugins.csproj", "{1454D72D-0EEF-493E-5EA6-3F54CA8E75A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokemon Ripoff.CSharp", "Pokemon Ripoff.CSharp.csproj", "{EE846D5B-4870-F263-EC58-F868CD3694E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokemon Ripoff.CSharp.Editor", "Pokemon Ripoff.CSharp.Editor.csproj", "{8EB9D3E5-9758-45BE-0437-A564EBAD42CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1454D72D-0EEF-493E-5EA6-3F54CA8E75A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1454D72D-0EEF-493E-5EA6-3F54CA8E75A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1454D72D-0EEF-493E-5EA6-3F54CA8E75A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1454D72D-0EEF-493E-5EA6-3F54CA8E75A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE846D5B-4870-F263-EC58-F868CD3694E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE846D5B-4870-F263-EC58-F868CD3694E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE846D5B-4870-F263-EC58-F868CD3694E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE846D5B-4870-F263-EC58-F868CD3694E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EB9D3E5-9758-45BE-0437-A564EBAD42CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EB9D3E5-9758-45BE-0437-A564EBAD42CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EB9D3E5-9758-45BE-0437-A564EBAD42CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EB9D3E5-9758-45BE-0437-A564EBAD42CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
